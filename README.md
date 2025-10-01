@@ -1,2 +1,0 @@
-# nsis
-teste nsiss
