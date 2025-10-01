@@ -8,7 +8,7 @@ import ctypes
 
 # Definições de Versão (movidas de version.py)
 APP_NAME = "MeuAppTeste"
-APP_VERSION = "2.2.21" 
+APP_VERSION = "3.5.0" 
 APP_AUTHOR = "Natã Silva"
 
 # Configurações do GitHub para Atualização

@@ -1,6 +1,6 @@
 !define APP_NAME "MeuAppTeste"
 !define EXE_NAME "app.exe"
-!define APP_VERSION "3.0.0"
+!define APP_VERSION "3.5.0"
 !define INSTALL_DIR "$PROGRAMFILES\${APP_NAME}"
 
 Name "${APP_NAME} v${APP_VERSION}"
